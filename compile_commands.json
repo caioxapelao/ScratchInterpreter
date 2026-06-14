@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/debian/ScratchInterpreter/build",
-  "command": "/usr/bin/c++  -I/home/debian/ScratchInterpreter/include  -o CMakeFiles/ScratchInterpreter.dir/src/main.cpp.o -c /home/debian/ScratchInterpreter/src/main.cpp",
-  "file": "/home/debian/ScratchInterpreter/src/main.cpp",
-  "output": "CMakeFiles/ScratchInterpreter.dir/src/main.cpp.o"
-}
-]
